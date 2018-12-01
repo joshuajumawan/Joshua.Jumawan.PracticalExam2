@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "788208473042",
+    "firebase_url": "https://practical-exam-2.firebaseio.com",
+    "project_id": "practical-exam-2",
+    "storage_bucket": "practical-exam-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788208473042:android:7068a1f4ce522987",
+        "android_client_info": {
+          "package_name": "com.Joshua.Jumawan.exam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788208473042-ebp7sfucfun8iqmq2ndbv733o753meuc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Joshua.Jumawan.exam2",
+            "certificate_hash": "14fd8455fca97fc46644eacbfd7107cbbf824178"
+          }
+        },
+        {
+          "client_id": "788208473042-qlet13si5rqv1274395j4hgmqrkd7la4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbB23BPEpt1MM0ifrj-0UhhEPMuatyjXY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788208473042-qlet13si5rqv1274395j4hgmqrkd7la4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
